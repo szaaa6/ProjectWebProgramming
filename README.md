@@ -1,0 +1,1 @@
+Restaurant Website is a responsive, multi-page website built with HTML and CSS to showcase a burger restaurant’s menu, gallery, customer reviews, and ordering system. Designed for simplicity and usability, this project highlights foundational front-end development skills, including layout structuring, styling, and basic interactivity.
